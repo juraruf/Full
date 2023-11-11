@@ -1,0 +1,6 @@
+1. git clone https://github.com/MazurArtem92/project.git
+Работаем с репозиторием
+2. git add -A
+3. git commit -a -m"......"
+4. git push
+5. git pull в домашнем файле
